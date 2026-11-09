@@ -1,8 +1,10 @@
 👋 Hi, I'm Abdi (Abdulhamid Jemal)
 
-💻 Software Engineering Student | Developer | Tech Enthusiast
-
-I'm a Software Engineering student passionate about programming, building web applications, exploring emerging technologies, and continuously improving my technical skills.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulhamidjemal&label=PROFILE+VIEWS&color=00abf0&style=for-the-badge" alt="Profile Views" />
+</p><h3 align="center">💻 Software Engineering Student | Developer | Tech Enthusiast</h3><p align="center">
+  <em>Always Learning | Always Building | Always Growing 🚀</em>
+</p>I'm a Software Engineering student passionate about programming, building web applications, exploring emerging technologies, and continuously improving my technical skills.
 
 - 🎓 Software Engineering Student at Jimma University.
 - 💻 Interested in Full-Stack Development and Artificial Intelligence.
@@ -40,24 +42,21 @@ I'm a Software Engineering student passionate about programming, building web ap
 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulhamidjemal&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamidjemal&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulhamidjemal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamidjemal&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>---
 
 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current_Streak-3_Days-orange?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Longest_Streak-35_Days-blue?style=for-the-badge&logo=github" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulhamidjemal&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abdulhamidjemal&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>---
 
 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/abdulhamidjemal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>---
 
