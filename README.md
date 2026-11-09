@@ -4,7 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=abdulhamidjemal&label=PROFILE+VIEWS&color=00abf0&style=for-the-badge" alt="Profile Views" />
 </p><h3 align="center">💻 Software Engineering Student | Developer | Tech Enthusiast</h3><p align="center">
   <em>Always Learning | Always Building | Always Growing 🚀</em>
-</p>I'm a Software Engineering student passionate about programming, building web applications, exploring emerging technologies, and continuously improving my technical skills.
+</p>---
+
+👨‍💻 About Me
+
+I'm a Software Engineering student passionate about programming, building web applications, exploring emerging technologies, and continuously improving my technical skills.
 
 - 🎓 Software Engineering Student at Jimma University.
 - 💻 Interested in Full-Stack Development and Artificial Intelligence.
@@ -42,8 +46,8 @@
 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulhamidjemal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamidjemal&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulhamidjemal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamidjemal&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>---
 
 🔥 GitHub Contribution Streak
@@ -57,6 +61,9 @@
 <p align="left">
   <a href="https://github.com/abdulhamidjemal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/Abdi_J1">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>---
 
