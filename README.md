@@ -47,13 +47,13 @@ I'm a Software Engineering student passionate about programming, building web ap
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulhamidjemal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamidjemal&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamidjemal&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Most Used Languages" />
 </p>---
 
 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulhamidjemal&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=abdulhamidjemal&theme=tokyonight&hide_border=true&v=2" alt="GitHub Contribution Streak" />
 </p>---
 
 🌐 Connect With Me
